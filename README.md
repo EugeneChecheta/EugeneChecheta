@@ -70,19 +70,15 @@
   <summary><b>📂 Развернуть / свернуть</b></summary>
   <br/>
 
-  ### 🏢 Компания А | [Должность]
-  **Период:** ММ.ГГГГ – ММ.ГГГГ  
-  - Краткое описание обязанностей и ключевых достижений.
-  - Технологии: [список технологий].
+  ### 🏢 LUTOhayse | Старший разработчик
+  **Период:** Апрель 2023 – настоящее время  
+  - Администрирование сервера компании
+  - Написание чат-ботов для заказа продукта
+  - Оптимизация процессов
+  - Кодревью
+  - Обновление сайта компании
 
-  ### 🏢 Компания Б | [Должность]
-  **Период:** ММ.ГГГГ – ММ.ГГГГ  
-  - Ещё одно описание с акцентом на результаты.
-  - Руководство командой из [число] человек.
-
-  ### 🏢 Компания В (стажировка / фриланс)
-  **Период:** ММ.ГГГГ – ММ.ГГГГ  
-  - Проекты, в которых участвовал, приобретённые навыки.
+  `Python`, `SQL`, `HTML`, `CSS`
 
 </details>
 
@@ -91,17 +87,20 @@
 ## 🎓 Образование и курсы
 
 <details>
-  <summary><b>📚 Развернуть / свернуть</b></summary>
+  <summary><b>📂 Развернуть / свернуть</b></summary>
   <br/>
 
-  ### 🎓 [Название университета]
-  **Степень:** [Бакалавр / Магистр] по направлению **[Специальность]**  
-  **Годы обучения:** 20XX – 20XX  
+  ### 🎓 **БГТУ им. Шухова** (2025 - н. в.), г. Белгород
+  Информационные Технологии (Бакалавриат)
+
+  ### 🎓 **ОГАПОУ БИК** (2021 - 2025), г. Белгород
+  Информационные системы и программирование (Специалитет)
+
+  ### 🎓 **МБОУ "СОШ №20"** (2008 - 2020)
+  Факультет Информационных Технологий (Бакалавриат)
 
   ### 📜 Курсы и сертификаты
-  - **[Название курса]** — [Платформа: Coursera, Stepik и т.д.] (Год)
-  - **[Сертификация, например, AWS Certified Developer]** (Год)
-  - **[Дополнительное обучение]**
+  - **21School** от Сбера *"Backend-разработчик"* (2026 - н. в.)
 
 </details>
 
@@ -110,15 +109,13 @@
 ## 📁 Ссылки на основные репозитории
 
 <details>
-  <summary><b>🗂️ Развернуть / свернуть</b></summary>
+  <summary><b>📂 Развернуть / свернуть</b></summary>
   <br/>
 
   | Репозиторий | Описание | Технологии |
   |-------------|----------|------------|
-  | [**Project Alpha**](https://github.com/your-username/project-alpha) | Краткое описание самого важного проекта. | `Python` `FastAPI` `PostgreSQL` |
-  | [**Awesome Tool**](https://github.com/your-username/awesome-tool) | Утилита, которая решает конкретную проблему. | `Go` `Docker` `Kubernetes` |
-  | [**Data Analysis Pipeline**](https://github.com/your-username/data-pipeline) | ETL-пайплайн для обработки больших данных. | `Spark` `Airflow` `AWS` |
-  | [**Machine Learning Model**](https://github.com/your-username/ml-model) | Модель для прогнозирования [чего-либо]. | `PyTorch` `scikit-learn` |
+  | [**LUTOhayse(bots)**](https://github.com/your-username/project-alpha) | Система оформления заказов и конструктора диванов в чат-ботах  | `Python` `Telegram` `Вконтакте` `SQL` `Docker` |
+  | [**LUTOhayse(website)**](https://github.com/your-username/awesome-tool) | Сайт-каталог для просмотра продуктов и карточек товара | `HTML` `CSS` |
 
   *Больше проектов вы найдёте в [моём профиле](https://github.com/your-username?tab=repositories).*
 
@@ -126,23 +123,6 @@
 
 ---
 
-## 📈 Немного статистики
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blueviolet" alt="Profile views"/>
-</p>
-
-<p align="center">
-  ⭐️ Спасибо, что заглянули! Буду рад сотрудничеству и новым знакомствам. ⭐️
+  ##⭐️ Спасибо, что заглянули! Буду рад сотрудничеству и новым знакомствам. ⭐️
 </p>
