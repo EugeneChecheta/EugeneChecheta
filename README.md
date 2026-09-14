@@ -85,8 +85,6 @@
   - Разработка пространства для быстрого обучения и стажировки работников
   - Оптимизация процессов
   - Кодревью
-
-    [Репозиторий](https://github.com/EugeneChecheta/LUTOhayse.webapp/tree/main)
   
 
   `Python`, `HTML`, `CSS`, `SQL`, `PostgreSQL`, `Flask`
@@ -99,6 +97,8 @@
   - Разработка чат-ботов для администрирования базы данных на PostgreSQL
   - Оптимизация процессов
   - Кодревью
+
+    [Репозиторий](https://github.com/EugeneChecheta/LUTOhayse.webapp/tree/main)
 
 
   `Python`, `JavaScript`, `HTML`, `CSS`, `SQL`, `PostgreSQL`, `Docker`, `Telegram`, `nginx`, `Flask`, `Node.js`
