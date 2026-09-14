@@ -114,8 +114,7 @@
 
   | Репозиторий | Описание | Технологии |
   |-------------|----------|------------|
-  | [**LUTOhayse.bots**](https://github.com/EugeneChecheta/LUTOhayse.bots/tree/main) | Система оформления заказов и конструктора диванов в чат-ботах  | `Python` `Telegram` `Вконтакте` `SQL` `Docker` |
-  | [**LUTOhayse.website**](https://github.com/EugeneChecheta/LUTOhayse.website/tree/main) | Сайт-каталог для просмотра продуктов и карточек товара | `HTML` `CSS` |
+  | [**LUTOhayse.webapp**](https://github.com/EugeneChecheta/LUTOhayse.webapp/tree/main) | Рабочий интернет-магазин для заказа диванов и сборки матрасов. Коммерческий проект | `Python` `JavaScript` `HTML` `CSS` `SQL` `PostgreSQL` `Docker` `Telegram` `nginx` `Flask`|
 
   *Больше проектов вы найдёте в [моём профиле](https://github.com/EugeneChecheta?tab=repositories).*
 
